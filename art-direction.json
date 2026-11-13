@@ -1,0 +1,41 @@
+{
+  "generator": "OpenAI built-in image generator",
+  "purpose": "Original night-market game background and standalone transparent stall sprites",
+  "briefs": [
+    {
+      "name": "market-background",
+      "transparent": false,
+      "prompt": "Original premium hand-painted East Asian yokai night-market game art. Delicate clean contour lines, sophisticated gouache and colored ink, consistent shallow isometric 3/4 view, believable wooden joinery, muted indigo and mineral teal with soft warm amber lantern lighting, understated cinnabar details. Handcrafted, expressive, cohesive, very fine readable silhouettes. No text, no letters, no numerals, no UI, no borders, no watermark. Portrait 2:3 game background ONLY. An empty moonlit cobblestone night market plaza with willow branches framing the upper corners, a small canal and arched bridge and distant antique rooftops in the top quarter. Entire central and lower 75% an unobstructed clean stone courtyard, softly illuminated by lanterns only at the outer edges. No stalls, no characters, no grid lines, no props or large objects in the center. Top-down shallow isometric ground plane, flat rectangular composition, dark perimeter vignette. Calm spacious scene, atmospheric but gameplay readability paramount."
+    },
+    {
+      "name": "fox",
+      "transparent": true,
+      "prompt": "Original premium hand-painted East Asian yokai night-market game art. Delicate clean contour lines, sophisticated gouache and colored ink, consistent shallow isometric 3/4 view, believable wooden joinery, muted indigo and mineral teal with soft warm amber lantern lighting, understated cinnabar details. Handcrafted, expressive, cohesive, very fine readable silhouettes. No text, no letters, no numerals, no UI, no borders, no watermark. SINGLE standalone full small wooden sake tavern stall operated by a serene white-haired fox spirit woman with exactly one fluffy white tail and elegant ivory and russet kimono. One hand holding a small porcelain cup, natural fingers. Beautiful fox face, two fox ears. Delicate small awning, a hanging warm red paper lantern, ceramic sake bottles on the counter, intricate but restrained wooden structure. Entire stall and whole character fit centered in square canvas including roof and ground footprint, no clipping. Transparent background, isolated game sprite, soft contact shadow only. The stall occupies 85% canvas, no surrounding scenery."
+    },
+    {
+      "name": "fire",
+      "transparent": true,
+      "prompt": "Original premium hand-painted East Asian yokai night-market game art. Delicate clean contour lines, sophisticated gouache and colored ink, consistent shallow isometric 3/4 view, believable wooden joinery, muted indigo and mineral teal with soft warm amber lantern lighting, understated cinnabar details. Handcrafted, expressive, cohesive, very fine readable silhouettes. No text, no letters, no numerals, no UI, no borders, no watermark. SINGLE standalone full small wooden barbecue food stall operated by a charming tiny orange flame spirit with a simple unique smiling face and coherent two little arms. Several carefully painted skewers on a charcoal grill, warm firelight, fine timber counter and rustic linen awning with no markings, small glowing lantern. Entire stall including roof and footprint centered in square canvas, no clipping. Transparent background, isolated game sprite, soft contact shadow only. Occupies 85% canvas."
+    },
+    {
+      "name": "tea",
+      "transparent": true,
+      "prompt": "Original premium hand-painted East Asian yokai night-market game art. Delicate clean contour lines, sophisticated gouache and colored ink, consistent shallow isometric 3/4 view, believable wooden joinery, muted indigo and mineral teal with soft warm amber lantern lighting, understated cinnabar details. Handcrafted, expressive, cohesive, very fine readable silhouettes. No text, no letters, no numerals, no UI, no borders, no watermark. SINGLE standalone full small tea stall operated by a cute pale umbrella ghost, one red traditional paper umbrella hat, a single clearly readable face, small round ghost body. Ceramic teapot, jade tea cups and small steam curls, wooden counter, elegant weathered indigo cloth awning with no markings and soft warm paper lantern. Entire stall roof and footprint centered in square canvas, no clipping. Transparent background, isolated game sprite, soft contact shadow only, occupies 85% canvas."
+    },
+    {
+      "name": "tanuki",
+      "transparent": true,
+      "prompt": "Original premium hand-painted East Asian yokai night-market game art. Delicate clean contour lines, sophisticated gouache and colored ink, consistent shallow isometric 3/4 view, believable wooden joinery, muted indigo and mineral teal with soft warm amber lantern lighting, understated cinnabar details. Handcrafted, expressive, cohesive, very fine readable silhouettes. No text, no letters, no numerals, no UI, no borders, no watermark. SINGLE standalone full small trading stall operated by one cheerful plump tanuki raccoon spirit with clear little paws, brown fur, straw hat and moss green vest. Beautiful expressive face. A few distinct small sacks and stacked brass coins on a timber counter, rustic teal canopy, one small warm lantern. Entire stall roof and ground footprint centered in square canvas with no clipping. Transparent background, isolated game sprite, soft contact shadow only. Occupies 85% canvas."
+    },
+    {
+      "name": "watch",
+      "transparent": true,
+      "prompt": "Original premium hand-painted East Asian yokai night-market game art. Delicate clean contour lines, sophisticated gouache and colored ink, consistent shallow isometric 3/4 view, believable wooden joinery, muted indigo and mineral teal with soft warm amber lantern lighting, understated cinnabar details. Handcrafted, expressive, cohesive, very fine readable silhouettes. No text, no letters, no numerals, no UI, no borders, no watermark. SINGLE standalone full small night watchman's post, a dark-haired yokai wearing a white fox mask and indigo patterned cloak, carrying a small warm paper lantern and a wooden staff. Clear anatomy and calm dignified posture. Small timber roof on a narrow wooden booth, bamboo fence details, low stone pedestal. Entire post roof and footprint centered in square canvas with no clipping. Transparent background, isolated game sprite, soft contact shadow only. Occupies 85% canvas."
+    },
+    {
+      "name": "lantern",
+      "transparent": true,
+      "prompt": "Original premium hand-painted East Asian yokai night-market game art. Delicate clean contour lines, sophisticated gouache and colored ink, consistent shallow isometric 3/4 view, believable wooden joinery, muted indigo and mineral teal with soft warm amber lantern lighting, understated cinnabar details. Handcrafted, expressive, cohesive, very fine readable silhouettes. No text, no letters, no numerals, no UI, no borders, no watermark. SINGLE standalone full small lantern workshop stall operated by a friendly orange round one-eyed paper lantern yokai with small expressive arms and smiling mouth. Hanging beautiful small vermilion and ivory paper lanterns under a timber awning, brushes and rolled paper on a wooden counter, cozy amber light. Entire stall roof and ground footprint centered in square canvas, no clipping. Transparent background, isolated game sprite, soft contact shadow only. Occupies 85% canvas."
+    }
+  ]
+}
